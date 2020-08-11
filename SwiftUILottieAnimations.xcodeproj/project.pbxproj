@@ -16,6 +16,7 @@
 		BD77593D24E21BAB001654E7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BD77593B24E21BAB001654E7 /* LaunchScreen.storyboard */; };
 		BD77594624E21C39001654E7 /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = BD77594524E21C39001654E7 /* Lottie */; };
 		BD77594824E21C4F001654E7 /* LottieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD77594724E21C4F001654E7 /* LottieView.swift */; };
+		BDFB868E24E21ED60010FE56 /* screenshot.png in Resources */ = {isa = PBXBuildFile; fileRef = BDFB868D24E21ED60010FE56 /* screenshot.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		BD77593C24E21BAB001654E7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		BD77593E24E21BAB001654E7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		BD77594724E21C4F001654E7 /* LottieView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LottieView.swift; sourceTree = "<group>"; };
+		BDFB868D24E21ED60010FE56 /* screenshot.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +70,7 @@
 				BD4A045E24E21D660032B361 /* pizzaprocess.json */,
 				BD77593424E21BAA001654E7 /* ContentView.swift */,
 				BD77593624E21BAB001654E7 /* Assets.xcassets */,
+				BDFB868D24E21ED60010FE56 /* screenshot.png */,
 				BD77593B24E21BAB001654E7 /* LaunchScreen.storyboard */,
 				BD77593E24E21BAB001654E7 /* Info.plist */,
 				BD77593824E21BAB001654E7 /* Preview Content */,
@@ -150,6 +153,7 @@
 				BD77593A24E21BAB001654E7 /* Preview Assets.xcassets in Resources */,
 				BD4A045F24E21D660032B361 /* pizzaprocess.json in Resources */,
 				BD77593724E21BAB001654E7 /* Assets.xcassets in Resources */,
+				BDFB868E24E21ED60010FE56 /* screenshot.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
