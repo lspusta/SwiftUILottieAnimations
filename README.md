@@ -1,2 +1,2 @@
 # SwiftUILottieAnimations
-![lottie animation](http://url/to/img.png)
+![lottie animation](https://raw.githubusercontent.com/lspusta/SwiftUILottieAnimations/main/SwiftUILottieAnimations/screenshot.png)
